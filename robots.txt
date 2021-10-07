@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://thienvoithiennhien.github.io/source/sitemap.xml
