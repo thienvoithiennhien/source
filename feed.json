@@ -11,20 +11,6 @@
     },
     "items": [
         {
-            "id": "https://thienvoithiennhien.com/test-hosting-livestream/",
-            "url": "https://thienvoithiennhien.com/test-hosting-livestream/",
-            "title": "Test Hosting Livestream",
-            "summary": " ",
-            "content_html": "<p>\n<script>\n  var script = document.createElement(\"script\");\n  script.type = \"text/javascript\";\n\n  script.addEventListener(\"load\", function (event) {\n    const meeting = new VideoSDKMeeting();\n\n    const config = {\n      name: \"John Doe\",\n      apiKey: \"<API KEY>\", // generated in step 1\n      meetingId: \"milkyway\", // enter your meeting id\n\n      containerId: null,\n      redirectOnLeave: \"https://www.videosdk.live/\",\n\n      micEnabled: true,\n      webcamEnabled: true,\n      participantCanToggleSelfWebcam: true,\n      participantCanToggleSelfMic: true,\n\n      chatEnabled: true,\n      screenShareEnabled: true,\n      pollEnabled: true,\n      whiteBoardEnabled: true,\n      raiseHandEnabled: true,\n\n      recordingEnabled: true,\n      recordingWebhookUrl: \"https://www.videosdk.live/callback\",\n      participantCanToggleRecording: true,\n\n      brandingEnabled: true,\n      brandLogoURL: \"https://picsum.photos/200\",\n      brandName: \"Awesome startup\",\n      poweredBy: true,\n\n      participantCanLeave: true, // if false, leave button won't be visible\n\n      // Live stream meeting to youtube\n      livestream: {\n        autoStart: true,\n        outputs: [\n          // {\n          //   url: \"rtmp://x.rtmp.youtube.com/live2\",\n          //   streamKey: \"<STREAM KEY FROM YOUTUBE>\",\n          // },\n        ],\n      },\n\n      permissions: {\n        askToJoin: false, // Ask joined participants for entry in meeting\n        toggleParticipantMic: true, // Can toggle other participant's mic\n        toggleParticipantWebcam: true, // Can toggle other participant's webcam\n      },\n\n      joinScreen: {\n        visible: true, // Show the join screen ?\n        title: \"Daily scrum\", // Meeting title\n        meetingUrl: window.location.href, // Meeting joining url\n      },\n    };\n\n    meeting.init(config);\n  });\n\n  script.src =\n    \"https://sdk.videosdk.live/rtc-js-prebuilt/0.1.5/rtc-js-prebuilt.js\";\n  document.getElementsByTagName(\"head\")[0].appendChild(script);\n</script>\n</p>",
-            "author": {
-                "name": "Kiều Mạnh"
-            },
-            "tags": [
-            ],
-            "date_published": "2021-10-16T11:59:48+07:00",
-            "date_modified": "2021-10-16T11:59:48+07:00"
-        },
-        {
             "id": "https://thienvoithiennhien.com/1-nguoi-da-giac-ngo-lieu-co-con-cam-thay-dau-kho/",
             "url": "https://thienvoithiennhien.com/1-nguoi-da-giac-ngo-lieu-co-con-cam-thay-dau-kho/",
             "title": "1 người đã giác ngộ liệu có còn cảm thấy đau khổ ?",
@@ -104,6 +90,22 @@
             ],
             "date_published": "2021-10-11T11:36:34+07:00",
             "date_modified": "2021-10-11T12:11:28+07:00"
+        },
+        {
+            "id": "https://thienvoithiennhien.com/nhan-biet-chia-khoa-de-vuot-qua-moi-song-gio-cuoc-doi/",
+            "url": "https://thienvoithiennhien.com/nhan-biet-chia-khoa-de-vuot-qua-moi-song-gio-cuoc-doi/",
+            "title": "Nhận biết - Chìa khóa để vượt qua mọi sóng gió cuộc đời",
+            "summary": "Chào bạn 👋, Mấy hôm nay mình cũng đang thử thách bản thân mình thông qua những tình huống cuộc đời. Bạn&hellip;",
+            "content_html": "<p>Chào bạn 👋,</p>\n<p>Mấy hôm nay mình cũng đang thử thách bản thân mình thông qua những tình huống cuộc đời. <em><strong>Bạn biết không, cho dù chúng ta tu dưỡng, rèn luyện đến mức độ nào, thì vẫn có mức độ khó cao hơn đang đợi các bạn</strong></em>. 🤧<br><br>Như những cơn sóng ngoài khơi, hết đợt này đến đợt khác. Và chúng ta - những người thực hành thiền, như những người đang học cách để lướt đi trên những cơn sóng. 🌊<br><br></p>\n<blockquote>\n<p>Chúng ta là 1 phần rất nhỏ, chúng ta không chống lại tự nhiên, chúng ta học cách thuận theo dòng chảy của cuộc sống.</p>\n</blockquote>\n<p><br>Sóng lớn thử thách, áp lực, đôi khi bạn cảm thấy bị đè bẹp. Nhiều khi bản thân thấy sao cuộc sống lúc đó bế tắc quá. <em><strong>Tuy nhiên, nhờ kinh nghiệm thực hành thiền, chúng ta đã thường rèn luyện sự nhận biết liên tục, để khi khoảnh khắc cuộc sống diễn ra - bạn đáp ứng hết mình.</strong></em><br><br>Hẳn nhiên, không có vấn đề nào là dễ dàng, nhiều khi thấy tối tăm mặt mũi, nhưng ít nhất chúng ta có nhiều sự kiên nhẫn và sáng suốt hơn nhờ việc nhận biết những trạng thái đang diễn ra bên trong liên tục để từ đó tìm ra giải pháp và vượt qua vấn đề. 🔑<br><br>Giống như người lướt ván, họ nhìn thấy con sóng, họ biết họ sợ nhưng họ chấp nhận họ đang sợ. Việc chúng ta chấp nhận những trạng thái cảm xúc của mình, nó cho chúng ta thêm động lực. Từ đó ta có thêm sức mạnh và vượt qua con sóng đó.<br><br><em><strong>Mỗi 1 phần cảm xúc trong bạn khi được chấp nhận, nó sẽ trở về với ý thức của bạn. Từ đó làm cho sự nhận thức của bạn ngày càng tiến bộ hơn. </strong></em><br><br>Và mỗi khi bạn vượt qua những thử thách từ cuộc sống, bạn thấy rằng mọi con sóng rồi cũng tan, cho dù thời điểm đó nó có lớn như thế nào đi chăng nữa.<br><br>Vì vậy - <em><strong>nhận biết, kiên nhẫn, cảm nhận</strong></em> - những từ đó khóa này là rất cần thiết cho các bạn thiền sinh đang ở tất cả các giai đoạn thực hành thiền và cho cuộc sống của các bạn ngày càng bình an, suôn sẻ hơn. 🌷<br><br>Cám ơn các bạn đã xem bài viết. Chúc các bạn 1 ngày an lành, hẹn gặp lại bạn ở bài viết tiếp theo.<br><br></p>",
+            "image": "https://thienvoithiennhien.com/media/posts/33/Black-and-White-Surfer-Quote-Sport-Facebook-Post1.png",
+            "author": {
+                "name": "Kiều Mạnh"
+            },
+            "tags": [
+                   "thông điệp"
+            ],
+            "date_published": "2021-10-11T11:25:37+07:00",
+            "date_modified": "2021-10-11T11:26:35+07:00"
         }
     ]
 }
