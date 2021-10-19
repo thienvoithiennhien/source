@@ -3,7 +3,7 @@
     <title>Thiền với Thiên Nhiên</title>
     <link href="https://thienvoithiennhien.com/feed.xml" rel="self" />
     <link href="https://thienvoithiennhien.com" />
-    <updated>2021-10-19T08:19:36+07:00</updated>
+    <updated>2021-10-19T08:34:31+07:00</updated>
     <author>
         <name>Kiều Mạnh</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://thienvoithiennhien.com/cap-nhat-thay-doi-blog-247/</id>
             <category term="cập nhật"/>
 
-        <updated>2021-10-19T08:19:36+07:00</updated>
+        <updated>2021-10-19T08:34:31+07:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://thienvoithiennhien.com/media/posts/40/pixel-cells-3976295_1280.png" alt="Cập nhật lịch sử thay đổi blog 24/7" />
@@ -39,11 +39,11 @@
 <li>Quản lý bài viết bằng phần mềm <em><a href="https://getpublii.com/" target="_blank" rel="noopener noreferrer">Publii CMS</a></em></li>
 <li>Lưu trữ bài viết tại hosting <em><a href="https://github.com/" target="_blank" rel="noopener noreferrer">Github</a></em></li>
 </ul>
-<p>06/2021:</p>
+<p><em><strong>06/2021:</strong></em></p>
 <ul>
 <li>Thêm tính năng ghi âm, lưu trữ trên nền tảng <em><a href="https://www.buzzsprout.com/" target="_blank" rel="noopener noreferrer">Buzzsprout</a></em></li>
 </ul>
-<p> </p>
+<h6> </h6>
 <h6><em><strong>16/09/2021</strong></em></h6>
 <ul>
 <li>Thêm tính năng đăng ký nhận email bài viết mới nhất bằng<em> <a href="https://sendfox.com/" target="_blank" rel="noopener noreferrer">Sendfox</a></em></li>
@@ -53,6 +53,7 @@
 <ul>
 <li>Thêm tính năng quay video màn hình nhỏ bằng  <em><a href="https://www.loom.com" target="_blank" rel="noopener noreferrer">Loom Video Camera</a></em><br><br></li>
 <li>Thêm tính năng chèn đoạn chữ ghi chú (scripts) bằng <em><a href="Veed.io" target="_blank" rel="noopener noreferrer">Veed Editor</a></em></li>
+<li>Phân tích cơ sở dữ liệu website bằng <em><a href="https://insignal.co/" target="_blank" rel="noopener noreferrer">Insignal</a></em></li>
 </ul>
 <h6> </h6>
 <h6><em><strong>20/10/2021</strong></em></h6>
