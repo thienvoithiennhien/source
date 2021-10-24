@@ -14,8 +14,7 @@
             "id": "https://thienvoithiennhien.com/thu-vien-hoa-sen/",
             "url": "https://thienvoithiennhien.com/thu-vien-hoa-sen/",
             "title": "Thư viện Hoa Sen 🌷",
-            "summary": "v",
-            "content_html": "<p>v<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"800\" height=\"1000\" src=\"https://app.milanote.com/1MEBqJ1xc1g21k?p=YEwniuoFlay\" frameborder=\"0\"></iframe></div>",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"800\" height=\"1000\" src=\"https://app.milanote.com/1MEBqJ1xc1g21k?p=YEwniuoFlay\" frameborder=\"0\"></iframe></div>",
             "author": {
                 "name": "Kiều Mạnh"
             },
@@ -23,7 +22,7 @@
                    "hướng dẫn"
             ],
             "date_published": "2021-10-24T21:56:02+07:00",
-            "date_modified": "2021-10-24T23:17:29+07:00"
+            "date_modified": "2021-10-24T23:17:51+07:00"
         },
         {
             "id": "https://thienvoithiennhien.com/lac-duong-tren-con-duong-tim-hieu-thuc-hanh-thien-dinh/",
