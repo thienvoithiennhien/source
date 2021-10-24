@@ -3,7 +3,7 @@
     <title>Thiền với Thiên Nhiên</title>
     <link href="https://thienvoithiennhien.com/feed.xml" rel="self" />
     <link href="https://thienvoithiennhien.com" />
-    <updated>2021-10-24T23:15:54+07:00</updated>
+    <updated>2021-10-24T23:17:29+07:00</updated>
     <author>
         <name>Kiều Mạnh</name>
     </author>
@@ -18,11 +18,15 @@
         <id>https://thienvoithiennhien.com/thu-vien-hoa-sen/</id>
             <category term="hướng dẫn"/>
 
-        <updated>2021-10-24T23:15:33+07:00</updated>
-            <summary></summary>
+        <updated>2021-10-24T23:17:29+07:00</updated>
+            <summary>
+                <![CDATA[
+                    v
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
-                <div class="post__iframe"><iframe loading="lazy" width="800" height="1000" src="https://app.milanote.com/1MEBqJ1xc1g21k?p=YEwniuoFlay" frameborder="0"></iframe></div>
+                <p>v<div class="post__iframe"><iframe loading="lazy" width="800" height="1000" src="https://app.milanote.com/1MEBqJ1xc1g21k?p=YEwniuoFlay" frameborder="0"></iframe></div>
             ]]>
         </content>
     </entry>
